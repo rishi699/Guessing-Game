@@ -17,3 +17,5 @@ function checkGuess() {
     gameResult.style.backgroundColor = "#1e217c";
   }
 }
+ //gameResult.textContent = "Please provide a valid input.";
+    //gameResult.style.backgroundColor = "#1e217c";
